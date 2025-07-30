@@ -1,3 +1,3 @@
-# LimiteCash Admin
+# LimiteCash
 
-Sistema administrativo para gerenciar solicitações de saque via limite de cartão.
+Versão inicial para publicação no Vercel.
