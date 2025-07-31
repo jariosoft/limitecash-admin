@@ -1,5 +1,5 @@
 {
-  "name": "limitecash-next",
+  "name": "limitecash",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -7,8 +7,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "next": "^15.4.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
